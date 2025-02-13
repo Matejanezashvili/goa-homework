@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>სარეგისტრაციო ფორმა</title>
+</head>
+<body>
+
+    <h2>📝 სარეგისტრაციო ფორმა</h2>
+
+    <form action="register.php" method="post">
+
+        <label for="email">📧 ელ.ფოსტა:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+
+        <label for="password">🔒 პაროლი:</label>
+        <input type="password" id="password" name="password" required>
+        <br><br>
+
+
+        <label for="country">🌍 აირჩიეთ ქვეყანა:</label>
+        <select id="country" name="country" required>
+            <option value="georgia">საქართველო</option>
+            <option value="usa">ამერიკა</option>
+            <option value="france">საფრანგეთი</option>
+            <option value="germany">გერმანია</option>
+            <option value="uk">ბრიტანეთი</option>
+        </select>
+        <br><br>
+
+        <!-- Submit ღილაკი -->
+        <input type="submit" value="დარეგისტრირდი">
+    </form>
+
+</body>
+</html>
