@@ -73,9 +73,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1135.1202280553116,
-			"y": 108.24196692504313,
-			"lastActivityTimestamp": 1745773687953,
+			"x": 438.65646207668,
+			"y": 531.2419669250431,
+			"lastActivityTimestamp": 1745863478846,
 			"meta": {}
 		},
 		{
@@ -204,12 +204,63 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 355.8797719446883,
-			"y": 47.75803307495687,
+			"x": 348.34353792332,
+			"y": 31.75803307495687,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": 338.65646207668,
+			"y": 444.03884192504313,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:H9Xet7Z_WbWoliVUn_kYc",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 156,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ვხატავ ხოლმე"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "😊"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aM4yq",
+			"typeName": "shape"
 		},
 		{
 			"x": 412.640625,
@@ -382,12 +433,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:H9Xet7Z_WbWoliVUn_kYc",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:EW9f24KFJPDhZPRQmfvtr"
+				"shape:H9Xet7Z_WbWoliVUn_kYc"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:H9Xet7Z_WbWoliVUn_kYc",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -507,13 +558,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:dash": "draw",
-				"tldraw:font": "draw",
-				"tldraw:color": "yellow",
-				"tldraw:size": "m"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -547,7 +592,7 @@
 			"isCoarsePointer": false,
 			"isHoveringCanvas": false,
 			"openMenus": [],
-			"isChangingStyle": true,
+			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
