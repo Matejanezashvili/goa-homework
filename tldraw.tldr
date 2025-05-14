@@ -73,9 +73,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 434.405025113184,
-			"y": 265.38975720537974,
-			"lastActivityTimestamp": 1747147613476,
+			"x": 604.3024106796685,
+			"y": 636.5346411512119,
+			"lastActivityTimestamp": 1747233690961,
 			"meta": {}
 		},
 		{
@@ -511,10 +511,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:ux5v2Ch3MbK_i8B2iY7z8"
-			],
-			"hoveredShapeId": "shape:ux5v2Ch3MbK_i8B2iY7z8",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -720,7 +718,7 @@
 		},
 		{
 			"followingUserId": null,
-			"opacityForNextShape": 0.5,
+			"opacityForNextShape": 1,
 			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
